@@ -1,0 +1,28 @@
+#menu {
+	margin-top: 25px;
+}
+
+#menu .world {
+	letter-spacing: 1px;
+	padding-left: 12px;
+	font-weight: bold;
+}
+
+#menu .hato-chan {
+	letter-spacing: 1px;
+	padding-left: 12px;
+	font-weight: bold;
+}
+
+#menu .limonada {
+	letter-spacing: 1px;
+	padding-left: 12px;
+	font-weight: bold;
+}
+
+#menu .paragraph {
+	font-family: 'Courier New', Courier, monospace;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 20px;
+}

@@ -1,0 +1,32 @@
+#footer {
+	margin-top: 70px;
+	padding-bottom: 20px;
+}
+
+#footer .dawaker {
+	font-size: 15px;
+	text-align: center;
+}
+
+#footer .dawaker a {
+	font-size: 15px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#footer .footer-hr {
+	width: 40%;
+	background-color: #000;
+}
+
+#footer .dawaker-main {
+	font-size: 15px;
+	text-align: center;
+	margin-top: -20px;
+}
+
+#footer .dawaker-main a {
+	font-size: 15px;
+	font-weight: bold;
+	text-align: center;
+}

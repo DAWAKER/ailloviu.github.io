@@ -1,0 +1,11 @@
+#main .subtitle {
+	padding-left: 12px;
+	letter-spacing: 1px;
+}
+
+#main .paragraph {
+	font-family: 'Courier New', Courier, monospace;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 20px;
+}
